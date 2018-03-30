@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>J'aime les hommes maintenant</h1>
+    <h1>hi</h1>
 </body>
 </html>
